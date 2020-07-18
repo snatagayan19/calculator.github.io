@@ -1,0 +1,33 @@
+
+table{
+    margin: auto;
+}
+input{
+    font-size: 30px;
+    border: solid rgb(0, 0, 0) 2px;
+}
+button{
+    font-size: 32px;
+    background-color: rgb(20, 59, 71);
+    width: 84px;
+    height: 63px;
+    
+}
+.calculator{
+    background-color:rgb(154, 205, 50);
+    display:inline-block;
+    border: solid rgb(0, 0, 0) 2px;
+}
+td button{
+    color: white;
+}
+h1{
+    background-color: white;
+}
+#history{
+    background-color:rgb(154, 205, 50);
+    height:auto;
+    font-size: 28px;
+    color: rgb(253, 253, 253);
+    text-align: left;
+}
